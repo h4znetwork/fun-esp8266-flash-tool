@@ -1,4 +1,4 @@
-### H4z-flash
+## H4Z-flash
 
 Sebuah wrapper script bash ringan untuk meng-compile dan meng-flash kode `.ino` ke board ESP8266 secara instan di Terminal Linux.
 
