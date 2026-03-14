@@ -4,7 +4,7 @@ Sebuah wrapper script bash ringan untuk meng-compile dan meng-flash kode `.ino` 
 
 ## Cara install.
 
-Sebelum menginstal h4z-flash, kamu perlu menginstal dependensi utamanya di sistem kamu. Untuk pengguna Arch Linux, jalankan perintah ini:
+Sebelum menginstal h4z-flash, kamu perlu menginstal dependensi utamanya di sistem. Untuk pengguna Arch Linux, jalankan perintah ini:
 
 ```bash
 sudo pacman -S arduino-cli esptool
