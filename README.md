@@ -40,11 +40,11 @@ Pindahkan script ke direktori bin sistem agar bisa dijalankan dari folder mana s
 ## Cara pakai.
 Untuk melakukan flash kode kamu, buka terminal di dalam folder tempat file .ino kamu berada. Pastikan file .ino tersebut memiliki nama yang sama persis dengan nama foldernya.
 
-Untuk menjalankan h4z-flash menggunakan port serial default (/dev/ttyUSB0), gunakan perintah ini (dengan asumsi "servo_wifi.ino" adalah copy dari file kode kamu):
+Untuk menjalankan h4z-flash menggunakan port serial default (/dev/ttyUSB0), gunakan perintah ini:
 ```bash
-   h4z-flash servo_wifi.ino
+   h4z-flash ganti_ini.ino
 ```
 Atau, jika kamu ingin menggunakan port serial spesifik tempat ESP8266 kamu terhubung, tambahkan path port di akhir perintah:
 ```bash
-   h4z-flash servo_wifi.ino /dev/ttyUSB1
+   h4z-flash ganti_ini.ino /dev/ttyUSB1
 ```
